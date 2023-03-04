@@ -10,3 +10,5 @@ dirname = input("Enter name for the directory: ")
 folder = os.mkdir(dirname)
 
 print("directory created Successfully !")
+
+# THis is jus a commnent
